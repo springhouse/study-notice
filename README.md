@@ -16,13 +16,13 @@
 |7-8|Other Spring Features|
 
 
-## 스터디 집중 공부 내용
+## Contribution 
 
-비동기 함수
+### 항목
 
-데이터베이스 인덱스 설정
+웹 서비스(웹 어플리케이션) 아이디어 `webapp-ideas`
 
-트레픽 핸들링
+기술스택(스터디원 작성 필수) `member-introduction`
 
 
-
+### 가이드
