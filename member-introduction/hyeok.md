@@ -1,15 +1,15 @@
 # 기술스택
 
 ### Backend
--- Python
--- Spring MVC
+- Python
+- Spring MVC
 
 ### Frontend
--- Javascript
--- Vue.js
+- Javascript
+- Vue.js
 
 ### Other
--- Hyperledger Fabric
--- Nginx, Apache
--- Haproxy, keepalived
+- Hyperledger Fabric
+- Nginx, Apache
+- Haproxy, keepalived
 
