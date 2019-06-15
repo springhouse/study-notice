@@ -18,7 +18,7 @@ https://open.kakao.com/o/gVyqu4rb
 
 ### 진행 시나리오
 
-1. 만나기전 study-report 폴더 내 .md 파일을 만들어 발표자료(스터디하면서 공부했던 내용) 정리해오기
+1. 만나기전 study-report/week-(1~8) 폴더 내 .md 파일을 만들어 발표자료(스터디하면서 공부했던 내용) 정리해오기
 
 2. 한명씩 돌아가면서 study-report에 있는 내용을 토대로 편하게 발표
 
