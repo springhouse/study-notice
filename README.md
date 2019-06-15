@@ -4,13 +4,13 @@
 
 https://open.kakao.com/o/gVyqu4rb
 
-## 출석부 ✔ ❌ ❗
+## 출석부
 
 |      Name     |  1 |  2 | 3  | 4 | 5 | 6 | 7 | 8 |
 |:-------------:|:---:|:---:|----|---|---|---|---|---|
-| [@loyalchoi610]( https://github.com/loyalchoi610)| ✔| ❌ | ＊ | * | * | * | * | * |
-| [@nanummer]( https://github.com/nanummer)| ✔| ❌ | ＊ | * | * | * | * | * |
-| [@Wisdomos2]( https://github.com/Wisdomos2)| ✔| ❌ | ＊ | * | * | * | * | * |
+| [@loyalchoi610]( https://github.com/loyalchoi610)| ✔| ❌ | ❗ | * | * | * | * | * |
+| [@nanummer]( https://github.com/nanummer)| ✔| ❌ | ❗ | * | * | * | * | * |
+| [@Wisdomos2]( https://github.com/Wisdomos2)| ✔| ❌ | ❗ | * | * | * | * | * |
 
 **불참(❌) 3회 시 스터디에서 제외**
 
