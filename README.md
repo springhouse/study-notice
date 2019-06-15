@@ -1,6 +1,7 @@
 # study-notice
 
-##오픈채팅방 링크
+## 오픈채팅방 링크
+
 https://open.kakao.com/o/gVyqu4rb
 
 ## 출석부
