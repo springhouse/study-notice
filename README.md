@@ -11,7 +11,7 @@ https://open.kakao.com/o/gVyqu4rb
 | [@loyalchoi610]( https://github.com/loyalchoi610)| ✔| ❌ | ＊ | * | * | * | * | * |
 
 **불참 3회 시 스터디에서 제외**
-
+ 
 
 
 ## 스터디 진행 & 계획(짜는중👦 👧 👩 👨)
