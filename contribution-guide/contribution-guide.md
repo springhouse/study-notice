@@ -1,8 +1,8 @@
 ### 항목
 
-웹 서비스(웹 어플리케이션) 아이디어 `webapp-ideas`
+`webapp-ideas` - 웹 서비스(웹 어플리케이션) 아이디어
 
-기술스택(스터디원 작성 필수) `member-introduction`
+`member-introduction` - 스터디원분들 기술스택
 
 ### 가이드
 
