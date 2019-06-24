@@ -7,7 +7,7 @@
 
 ### Frontend
 
-- **Vanilia javascript**
+- **Vanillia javascript**
 - **Vue.js**
 - Typescript
 - Angular
