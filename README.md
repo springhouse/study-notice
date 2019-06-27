@@ -8,14 +8,14 @@ https://open.kakao.com/o/gVyqu4rb
 
 |      Name     |  1 |  2 | 3  | 4 | 5 | 6 | 7 | 8 |
 |:-------------:|:---:|:---:|----|---|---|---|---|---|
-| [@loyalchoi610]( https://github.com/loyalchoi610)| ✔| ❌ | ❗ | * | * | * | * | * |
-| [@nanummer]( https://github.com/nanummer)| ✔| ❌ | ❗ | * | * | * | * | * |
-| [@Wisdomos2]( https://github.com/Wisdomos2)| *| * | * | * | * | * | * | * |
-| [@cykei]( https://github.com/cykei)| *| * | * | * | * | * | * | * |
-| [@mijip0320]( https://github.com/mijip0320)| *| * | * | * | * | * | * | * |
-| [@soyoungjeong]( https://github.com/soyoungjeong)| *| * | * | * | * | * | * | * |
-| [@namnani](https://github.com/namnani)| *| * | * | * | * | * | * | * |
-| [@Minwoo-Jo](https://github.com/Minwoo-Jo)| *| * | * | * | * | * | * | * |
+| [@loyalchoi610]( https://github.com/loyalchoi610)| * | * | * | * | * | * | * | * |
+| [@nanummer]( https://github.com/nanummer)| * | * | * | * | * | * | * | * |
+| [@Wisdomos2]( https://github.com/Wisdomos2)| * | * | * | * | * | * | * | * |
+| [@cykei]( https://github.com/cykei)| * | * | * | * | * | * | * | * |
+| [@mijip0320]( https://github.com/mijip0320)| * | * | * | * | * | * | * | * |
+| [@soyoungjeong]( https://github.com/soyoungjeong)| * | * | * | * | * | * | * | * |
+| [@namnani](https://github.com/namnani)| * | * | * | * | * | * | * | * |
+| [@Minwoo-Jo](https://github.com/Minwoo-Jo)| * | * | * | * | * | * | * | * |
 
 **불참(❌) 3회 시 스터디에서 제외**
 
