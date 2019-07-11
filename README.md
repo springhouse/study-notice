@@ -12,10 +12,8 @@ https://open.kakao.com/o/gVyqu4rb
 | [@nanummer]( https://github.com/nanummer)| * | * | * | * | * | * | * | * |
 | [@Wisdomos2]( https://github.com/Wisdomos2)| * | * | * | * | * | * | * | * |
 | [@cykei]( https://github.com/cykei)| * | * | * | * | * | * | * | * |
-| [@mijip0320]( https://github.com/mijip0320)| * | * | * | * | * | * | * | * |
 | [@soyoungjeong]( https://github.com/soyoungjeong)| * | * | * | * | * | * | * | * |
 | [@namnani](https://github.com/namnani)| * | * | * | * | * | * | * | * |
-| [@Minwoo-Jo](https://github.com/Minwoo-Jo)| * | * | * | * | * | * | * | * |
 
 **불참(❌) 3회 시 스터디에서 제외**
 
@@ -41,7 +39,7 @@ https://open.kakao.com/o/gVyqu4rb
 
 |      Week     |  Content | Date | todo |
 |:-------------:|:---:|:---:|:---:|
-|1|Restful & Graphql <br/> Basic Database operation|07/04| [link](https://github.com/springhouse/mission-1) |
+|1|Restful & Graphql <br/> Basic Database operation|07/11| [link](https://github.com/springhouse/mission-1) |
 |2|Transaction management| | |
 |3|Authentication & Security| | |
 |4-8| Project | | |
