@@ -8,12 +8,13 @@ https://open.kakao.com/o/gVyqu4rb
 
 |      Name     |  1 |  2 | 3  | 4 | 5 | 6 | 7 | 8 |
 |:-------------:|:---:|:---:|----|---|---|---|---|---|
-| [@loyalchoi610]( https://github.com/loyalchoi610)| * | * | * | * | * | * | * | * |
-| [@nanummer]( https://github.com/nanummer)| * | * | * | * | * | * | * | * |
-| [@Wisdomos2]( https://github.com/Wisdomos2)| * | * | * | * | * | * | * | * |
-| [@cykei]( https://github.com/cykei)| * | * | * | * | * | * | * | * |
-| [@soyoungjeong]( https://github.com/soyoungjeong)| * | * | * | * | * | * | * | * |
-| [@namnani](https://github.com/namnani)| * | * | * | * | * | * | * | * |
+| [@loyalchoi610]( https://github.com/loyalchoi610)| ✔️ | * | * | * | * | * | * | * |
+| [@nanummer]( https://github.com/nanummer)| ✔️ | * | * | * | * | * | * | * |
+| [@Wisdomos2]( https://github.com/Wisdomos2)| ❗ | * | * | * | * | * | * | * |
+| [@cykei]( https://github.com/cykei)| ✔ | * | * | * | * | * | * | * |
+| [@soyoungjeong]( https://github.com/soyoungjeong)| ✔ | * | * | * | * | * | * | * |
+| [@namnani](https://github.com/namnani)| ❗ | * | * | * | * | * | * | * |
+| [@dnwlsrla40](https://github.com/dnwlsrla40)| ✔ | * | * | * | * | * | * | * |
 
 **불참(❌) 3회 시 스터디에서 제외**
 
@@ -40,7 +41,7 @@ https://open.kakao.com/o/gVyqu4rb
 |      Week     |  Content | Date | todo |
 |:-------------:|:---:|:---:|:---:|
 |1|Restful & Graphql <br/> Basic Database operation|07/11| [link](https://github.com/springhouse/mission-1) |
-|2|Transaction management| | |
+|2|Transaction management| |  | 
 |3|Authentication & Security| | |
 |4-8| Project | | |
 
